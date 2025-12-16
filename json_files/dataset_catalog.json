@@ -1,0 +1,80 @@
+{
+    "caltech101": {
+        "path"   : "D:\\Project\\DPA\\dataset\\caltech101",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "test"
+    },
+    "eurosat": {
+        "path"   : "./dataset/euro_sat/",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "val"
+    },
+    "imagenet": {
+        "path": "D:\\Project\\DPA\\dataset\\imagenet",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "food101": {
+        "path"   : "D:\\Project\\DPA\\dataset\\food101",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "test"
+    },
+    "flowers":{
+        "path"   : "D:\\Project\\PromptKD\\data\\flowers",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "test"
+    },
+    "dtd": {
+        "path"   : "D:\\Project\\DPA\\dataset\\dtd",
+        "type"   : "imagefolder",
+        "train"  : "trainval",
+        "test"   : "test"
+    },
+    "fgvc":{
+        "path"   : "D:\\Project\\DPA\\dataset\\aircrafts",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "test"
+    },
+    "sun397": {
+        "path"   : "D:\\Project\\DPA\\dataset\\sun397",
+        "type"   : "filelist",
+        "train"  : "train",
+        "test"   : "test"
+    },
+    "cifar10": {
+        "path": "D:\\Project\\DPA\\dataset\\cifar10",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "cifar100": {
+        "path": "D:\\Project\\DPA\\dataset\\cifar100",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    } ,
+    "pets": {
+        "path": "D:\\Project\\DPA\\dataset\\pets",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },    
+    "ucf101": {
+        "path"   : "D:\\Project\\DPA\\dataset\\UCF101",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "val"
+    } ,  
+    "cars":{
+        "path"   : "D:\\Project\\DPA\\dataset\\cars",
+        "type"   : "imagefolder",
+        "train"  : "train",
+        "test"   : "test"
+    }
+}

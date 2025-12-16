@@ -1,0 +1,12 @@
+ftfy==6.3.1
+matplotlib==3.10.3
+numpy==2.3.1
+Pillow==11.2.1
+regex==2024.11.6
+scikit_learn==0.24.1
+tensorboardX==2.6.2.2
+tensorboardX==2.6.4
+timm==0.6.11
+torch==2.7.0+cu126
+torchvision==0.22.0+cu126
+tqdm==4.67.1

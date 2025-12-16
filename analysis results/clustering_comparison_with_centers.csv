@@ -1,0 +1,4 @@
+Model,Avg Intra-class Distance,Avg Inter-class Distance,Avg Clustering Quality
+Special Student,8.069,46.324,0.816
+Teacher,7.110,45.223,0.838
+Normal Student,8.355,45.163,0.805
